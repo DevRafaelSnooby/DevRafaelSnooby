@@ -3,11 +3,10 @@
 
 
 - 🔭 Hoje trabalho como Webdesigner Fullstack
-- 🌱 Estudando Hacking ético
+- 👾 Estudando Hacking ético
 - 😄 Pronouns: ele/dele
-- 👾 Recentemente formado em Hacking ETICO
-- 🎮 Desenvolvedor de aplicativos
-- ⚡ Fato Curioso: Eu adoro andar de skate
+- 🎮 Desenvolvedor de Sites
+- ⚡ Fato Curioso: Eu adoro tocar violão
 - 👯 Estou procurando colaborar com outros desenvolvedores.
 
 
